@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗室 1：Dynamics 365 Human Resources 頂點實驗室'
     module: '模組 4：學習 Microsoft Dynamics 365 Human Resources 的基礎知識'

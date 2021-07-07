@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範 3： 探索專案成本'
     module: '模組 5： 學習 Microsoft Dynamics 365 Project Operations 的基礎知識'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗室 8：Dynamics 365 Supply Chain Management 頂點實驗室'
     module: '模組 1：學習 Microsoft Dynamics 365 Supply Chain Management 的基礎知識'

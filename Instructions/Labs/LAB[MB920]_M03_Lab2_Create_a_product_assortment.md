@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗室 2：建立產品組合'
     module: '模組 3：學習 Microsoft Dynamics 365 Commerce 的基礎'

@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範 1： 指派學習課程'
     module: '模組 4： 學習 Microsoft Dynamics 365 Human Resources 的基礎知識'

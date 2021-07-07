@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗室 3：Dynamics 365 Commerce 頂點實驗室'
     module: '模組 3：學習 Microsoft Dynamics 365 Commerce 的基礎'

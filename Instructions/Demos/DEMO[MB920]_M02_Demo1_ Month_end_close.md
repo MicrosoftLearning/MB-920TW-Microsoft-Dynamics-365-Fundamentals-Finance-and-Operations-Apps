@@ -6,7 +6,7 @@ demo:
 
 ## 示範 1: 月底結算
 
-1. 瀏覽置** Microsoft 365 for Finance and Operations** 首頁。  
+1. 瀏覽置 **Microsoft 365 for Finance and Operations** 首頁。  
     要在 Microsoft Dynamics 365 for Finance and Operations 中建立一個新的財務期間關閉 (例如月底結算)，首先請瀏覽至**一般底帳**模組。
 
 1. 請在右上方的公司選擇器中，驗證您要連接的法律實體是 **USMF**。如果不是，請將法律實體變更為 **USMF**。

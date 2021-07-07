@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範 1： 月底結算'
     module: '模組 2： 學習 Microsoft Dynamics 365 Finance 的基礎知識'

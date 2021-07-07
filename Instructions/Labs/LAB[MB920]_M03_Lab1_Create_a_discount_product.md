@@ -1,5 +1,4 @@
-
- ---
+---
 lab:
     title: '實驗室 1：建立折扣產品'
     module: '模組 3：學習 Microsoft Dynamics 365 Commerce 的基礎

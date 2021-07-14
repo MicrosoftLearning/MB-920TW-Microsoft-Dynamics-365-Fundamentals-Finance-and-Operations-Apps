@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗室 7：建立維護工作單'
     module: '單元 1：學習 Microsoft Dynamics 365 Supply Chain Management 的基礎知識'

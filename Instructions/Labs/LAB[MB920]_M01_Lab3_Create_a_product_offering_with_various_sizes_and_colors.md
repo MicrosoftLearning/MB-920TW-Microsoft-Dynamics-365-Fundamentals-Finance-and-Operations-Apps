@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗室 3：建立一個具有多種尺寸和顏色的產品'
     module: '模組 1：學習 Microsoft Dynamics 365 Supply Chain Management 的基礎知識'

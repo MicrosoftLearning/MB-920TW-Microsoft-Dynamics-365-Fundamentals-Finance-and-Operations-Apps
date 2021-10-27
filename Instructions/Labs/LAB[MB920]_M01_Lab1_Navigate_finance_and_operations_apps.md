@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '實驗室 1：瀏覽財務與營運應用程式'
     module: '模組 1：學習 Microsoft Dynamics 365 Supply Chain Management 的基礎知識'
@@ -26,7 +26,7 @@ lab:
 
         貼上內容
 
-        系統管理員
+        Administrator
 
     - 密碼：
 
@@ -109,11 +109,11 @@ lab:
 
 1. 從清單上醒目提示其中一個供應商，然後在右側選取**相關資訊**功能表，然後檢閱所提供的其他資訊。
 
-1. 請在供應商清單中選取**Northwind Traders**。
+1. 請在供應商清單中選取 [**Acme 辦公用品供應商**]。
 
 1. 請選取**群組**功能表，然後選取**供應商群組**欄標題。
 
-    ![Northwind Traders 的供應商群組欄標題的螢幕擷取畫面。](./media/m1-common-all-vendor-group-menu.png)
+    ![Acme 辦公用品供應商的供應商群組欄標題的螢幕擷取畫面。](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. 許多功能表都有可用的排序和篩選功能。使用篩選來快速定位您要查找的欄位內容。
 
